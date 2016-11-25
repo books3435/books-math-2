@@ -1,0 +1,32 @@
+1. Calculus of Variations, by G. A. Bliss (out of print)
+2. Analytic Functions of a Complex Variable, by D. R. Curtiss (out of print)
+3. Mathematical Statistics, by H. L. Rietz (out of print)
+4. Projective Geometry, by J. W. Young (out of print)
+5. A History of Mathematics in America before 1900, by D. E. Smith and Jekuthiel
+Ginsburg (out of print)
+6. Fourier Series and Orthogonal Polynomials, by Dunham Jackson (out of print)
+7. Vectors and Matrices, by C. C. MacDuffee (out of print)
+8. Rings and Ideals, by N. H. McCoy (out of print)
+9. The Theory of Algebraic Numbers, second edition, by Harry Pollard and Harold
+G. Diamond
+10. The Arithmetic Theory of Quadratic Forms, by B. W. Jones (out of print)
+11. Irrational Numbers, by Ivan Niven
+12. Statistical Independence in Probability, Analysis and Number Theory, by Mark
+Kac
+13. A Primer of Real Functions, third edition, by Ralph P. Boas, Jr.
+14. Combinatorial Mathematics, by Herbert J. Ryser
+15. Noncommutative Rings, by I. N. Herstein (out of print)
+16. Dedekind Sums, by Hans Rademacher and Emil Grosswald
+17. The Schwarz Function and its Applications, by Philip J. Davis
+18. Celestial Mechanics, by Harry Pollard
+19. Field Theory and its Classical Problems, by Charles Robert Hadlock
+20. The Generalized Riemann Integral, by Robert M. McLeod
+21. From Error-Correcting Codes through Sphere Packings to Simple Groups,
+by Thomas M. Thompson
+22. Random Walks and Electric Networks, by Peter G. Doyle and J. Laurie Snell
+23. Complex Analysis: The Geometric Viewpoint, by Steven G. Krantz
+24. Knot Theory, by Charles Livingston
+25. Algebra and Tiling: Homomorphisms in the Service of Geometry, by Sherman
+Stein and Sandor SzaM
+26. The Sensual (Quadratic) Form, by John H. Conway assisted by Francis Y. C.
+Fung
